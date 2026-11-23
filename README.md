@@ -1,7 +1,7 @@
 ## Your Info:
 
-Matric Number:  
-Name:
+Matric Number:  304250 <br>
+Name: TAN SU CHIN
 
 ## Objective
 
@@ -47,10 +47,17 @@ https://<yourusername>.github.io/my-resume-site/
 3. Write the mistake in the git or GitHub instructions.
 
 ## What is the mistake?
+- not creating personal repository, causing unable to deploy because of organization restrictions
 
 ## Link to your Resume
+https://tansuchin.github.io/Tutorial-10/
 
 ## Link of YouTube References (at least five references)
+https://www.youtube.com/watch?v=ldwlOzRvYOU&utm_source=chatgpt.com <br>
+https://www.youtube.com/watch?v=dX8396ZmSPk&utm_source=chatgpt.com <br>
+https://www.youtube.com/watch?v=QsQRDXfOUY0&utm_source=chatgpt.com <br>
+https://www.youtube.com/watch?v=p1QU3kLFPdg&utm_source=chatgpt.com <br>
+https://www.youtube.com/watch?v=G3e-cpL7ofc&utm_source=chatgpt.com <br>
 
 
 
